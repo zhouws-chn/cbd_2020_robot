@@ -1,0 +1,2 @@
+bool need_supply
+

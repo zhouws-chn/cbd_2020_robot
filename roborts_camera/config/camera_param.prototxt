@@ -1,0 +1,42 @@
+camera: {
+  camera_name: "back_camera"
+  camera_type: "uvc"
+  camera_path: "/dev/video0"
+
+
+ camera_matrix {
+    data: 556.1832314
+    data: 0.0
+    data: 345.28693119
+    data: 0.0
+    data: 554.3325
+    data: 268.5973095
+    data: 0.0
+    data: 0.0
+    data: 1.0
+  }
+
+  camera_distortion {
+    data: -0.4469
+    data: 0.20408
+    data: -0.00238
+    data: -0.00306
+    data: 0.0
+  }
+
+  resolution {
+    width: 640
+    height: 360
+
+    width_offset: 0
+    height_offset: 0
+  }
+
+  fps: 100
+  auto_exposure: 1
+  exposure_value: 70
+  exposure_time: 10
+  auto_white_balance: 1
+  auto_gain: 0
+}
+
