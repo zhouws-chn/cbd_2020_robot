@@ -24,6 +24,15 @@ sudo apt-get install -y ros-kinetic-opencv3             \
 ~~~ 
 
 ## 测试方法如下
+~~~ 
+# 安装Ros环境,请使用ubuntu 16.04 & ROS kinetic 版本
+# git clone 代码
+# 安装相关依赖⬆
+# 编译代码 catkin_make
+# 运行仿真环境
+roslaunch roborts_bringup roborts_stage.launch
+# 待续。。。
+~~~ 
 
 ### WiKi: https://www.kancloud.cn/zhouws/robot-2020
 
