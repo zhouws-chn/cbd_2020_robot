@@ -2,7 +2,9 @@
 
 ~~~ 
 该代码基于RoboMaster的RobotRTS. https://github.com/RoboMaster/RoboRTS
+~~~ 
 需要安装RobotRTS的相关依赖
+~~~ 
 sudo apt-get install -y ros-kinetic-opencv3             \
                         ros-kinetic-cv-bridge           \
                         ros-kinetic-image-transport     \
@@ -20,7 +22,7 @@ sudo apt-get install -y ros-kinetic-opencv3             \
                         libsuitesparse-dev              \
                         libgoogle-glog-dev              \
 
-~~~ 
+## 测试方法如下:
 
 ### WiKi: https://www.kancloud.cn/zhouws/robot-2020
 
