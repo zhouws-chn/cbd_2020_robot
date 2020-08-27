@@ -20,9 +20,10 @@ sudo apt-get install -y ros-kinetic-opencv3             \
                         protobuf-compiler               \
                         libprotobuf-dev                 \
                         libsuitesparse-dev              \
-                        libgoogle-glog-dev              \
+                        libgoogle-glog-dev              
+~~~ 
 
-## 测试方法如下:
+## 测试方法如下
 
 ### WiKi: https://www.kancloud.cn/zhouws/robot-2020
 
